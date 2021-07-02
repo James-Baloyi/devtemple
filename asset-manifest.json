@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/devtemple/static/css/main.a1e1d8b6.chunk.css",
+    "main.js": "/devtemple/static/js/main.b64762b3.chunk.js",
+    "main.js.map": "/devtemple/static/js/main.b64762b3.chunk.js.map",
+    "runtime-main.js": "/devtemple/static/js/runtime-main.3257a3f4.js",
+    "runtime-main.js.map": "/devtemple/static/js/runtime-main.3257a3f4.js.map",
+    "static/js/2.93cbcfaa.chunk.js": "/devtemple/static/js/2.93cbcfaa.chunk.js",
+    "static/js/2.93cbcfaa.chunk.js.map": "/devtemple/static/js/2.93cbcfaa.chunk.js.map",
+    "static/js/3.0a3d822c.chunk.js": "/devtemple/static/js/3.0a3d822c.chunk.js",
+    "static/js/3.0a3d822c.chunk.js.map": "/devtemple/static/js/3.0a3d822c.chunk.js.map",
+    "index.html": "/devtemple/index.html",
+    "service-worker.js": "/devtemple/service-worker.js",
+    "service-worker.js.map": "/devtemple/service-worker.js.map",
+    "static/css/main.a1e1d8b6.chunk.css.map": "/devtemple/static/css/main.a1e1d8b6.chunk.css.map",
+    "static/js/2.93cbcfaa.chunk.js.LICENSE.txt": "/devtemple/static/js/2.93cbcfaa.chunk.js.LICENSE.txt",
+    "static/media/loader.696cd6cc.gif": "/devtemple/static/media/loader.696cd6cc.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3257a3f4.js",
+    "static/js/2.93cbcfaa.chunk.js",
+    "static/css/main.a1e1d8b6.chunk.css",
+    "static/js/main.b64762b3.chunk.js"
+  ]
+}
